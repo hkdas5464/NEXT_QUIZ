@@ -31,7 +31,7 @@ export default function Home() {
             <SubjectCard key={subject.name} subject={subject} />
           ))
         ) : (
-          <p className="text-lg text-center text-gray-500 animate-pulse">Loading subjects...</p>
+          <p className="text-lg text-center text-gray-500 animate-pulse">Loading...</p>
         )}
       </div>
     </div>

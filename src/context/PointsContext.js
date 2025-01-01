@@ -20,3 +20,8 @@ export const usePoints = () => {
   const context = useContext(PointsContext);
   return context;
 };
+
+export const useWrong = () => {
+  const context = useContext(PointsContext);
+  return context;
+};

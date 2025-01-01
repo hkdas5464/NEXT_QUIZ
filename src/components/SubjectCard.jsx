@@ -12,7 +12,7 @@ export default function SubjectCard({ subject }) {
 
   return (
     <div
-      onClick={handleClick}
+      
       className="relative overflow-hidden transition-shadow duration-300 transform border rounded-lg shadow-lg cursor-pointer group hover:shadow-2xl hover:-translate-y-2 hover:scale-105"
     >
       {/* Subject Image with slight zoom effect */}
@@ -25,15 +25,16 @@ export default function SubjectCard({ subject }) {
       </div> */}
 
 
-      <Card key={Math.random()} isPressable shadow="sm" onPress={() => console.log("item pressed")}>
+      <Card key={Math.random()} isPressable shadow="sm" onPress={() => console.log("item pressed")} onClick={handleClick}>
           <CardBody className="p-0 overflow-visible">
             <Image
+            
           alt={`${subject.name} image`}
-          className="w-full object-cover h-[140px]"
+          className="object-cover rounded-xl"
               radius="lg"
               shadow="sm"
               src={subject.image} 
-              width="90%"
+              width="100%"
             />
           </CardBody>
           <CardFooter className="justify-between text-small">
