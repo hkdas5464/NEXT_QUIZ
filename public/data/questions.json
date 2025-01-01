@@ -1,0 +1,1521 @@
+{
+    "subjects": [
+        {
+            "name": "Day_1",
+            "image": "/images/quiz.png",
+            
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the meaning of 'Abate'?",
+      "options": [
+        "To decrease or reduce",
+        "A place where animals are slaughtered",
+        "A type of formal abbreviation",
+        "A person who renounces their throne"
+      ],
+      "answer": "To decrease or reduce"
+    },
+    {
+      "id": 2,
+      "question": "What is the meaning of 'Abattoir'?",
+      "options": [
+        "A place where animals are slaughtered",
+        "A formal abbreviation",
+        "A place for religious rituals",
+        "A person who abdicates a throne"
+      ],
+      "answer": "A place where animals are slaughtered"
+    },
+    {
+      "id": 3,
+      "question": "What is the meaning of 'Abbot'?",
+      "options": [
+        "A religious leader of a monastery",
+        "A formal abbreviation",
+        "A place of religious rituals",
+        "A person who abdicates"
+      ],
+      "answer": "A religious leader of a monastery"
+    },
+    {
+      "id": 4,
+      "question": "What is the meaning of 'Abbreviation'?",
+      "options": [
+        "A shortened form of a word or phrase",
+        "A formal statement of renunciation",
+        "A decrease in intensity",
+        "A type of religious figure"
+      ],
+      "answer": "A shortened form of a word or phrase"
+    },
+    {
+      "id": 5,
+      "question": "What is the meaning of 'Abdicate'?",
+      "options": [
+        "To renounce or relinquish a throne",
+        "A formal statement of reduction",
+        "To increase or enhance",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "To renounce or relinquish a throne"
+    },
+    {
+      "id": 6,
+      "question": "What is the meaning of 'Abdication'?",
+      "options": [
+        "The act of renouncing or relinquishing a throne",
+        "A place where animals are slaughtered",
+        "A shortened form of a word",
+        "A decrease in intensity"
+      ],
+      "answer": "The act of renouncing or relinquishing a throne"
+    },
+    {
+      "id": 7,
+      "question": "What is the meaning of 'Aberration'?",
+      "options": [
+        "A deviation from the normal or typical",
+        "A place of religious rituals",
+        "A type of formal abbreviation",
+        "A religious figure"
+      ],
+      "answer": "A deviation from the normal or typical"
+    },
+    {
+      "id": 8,
+      "question": "What is the meaning of 'Ablution'?",
+      "options": [
+        "The act of washing oneself, especially for religious purposes",
+        "A decrease in intensity",
+        "A formal renunciation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "The act of washing oneself, especially for religious purposes"
+    },
+    {
+      "id": 9,
+      "question": "What is the meaning of 'Abnegate'?",
+      "options": [
+        "To renounce or reject something, especially one's own interests",
+        "A formal abbreviation",
+        "A religious figure",
+        "A decrease in intensity"
+      ],
+      "answer": "To renounce or reject something, especially one's own interests"
+    },
+    {
+      "id": 10,
+      "question": "What is the meaning of 'Abolish'?",
+      "options": [
+        "To formally end or do away with something",
+        "A type of formal renunciation",
+        "To increase or enhance",
+        "To flee or escape"
+      ],
+      "answer": "To formally end or do away with something"
+    },
+    {
+      "id": 11,
+      "question": "What is the meaning of 'Aboriginal'?",
+      "options": [
+        "Relating to the earliest known inhabitants",
+        "A person who practices alchemy",
+        "A formal statement of renunciation",
+        "A modern form of the Greek philosophy"
+      ],
+      "answer": "Relating to the earliest known inhabitants"
+    },
+    {
+      "id": 12,
+      "question": "What is the meaning of 'Aborigines'?",
+      "options": [
+        "The indigenous people of a region",
+        "A place where animals are slaughtered",
+        "A religious figure",
+        "A person who practices alchemy"
+      ],
+      "answer": "The indigenous people of a region"
+    },
+    {
+      "id": 13,
+      "question": "What is the meaning of 'Abridge'?",
+      "options": [
+        "To shorten or condense",
+        "To formally end something",
+        "To reduce intensity",
+        "To renounce or relinquish"
+      ],
+      "answer": "To shorten or condense"
+    },
+    {
+      "id": 14,
+      "question": "What is the meaning of 'Abridgement'?",
+      "options": [
+        "A shortened version of something",
+        "A place where animals are slaughtered",
+        "A type of formal renunciation",
+        "A religious leader"
+      ],
+      "answer": "A shortened version of something"
+    },
+    {
+      "id": 15,
+      "question": "What is the meaning of 'Abrogate'?",
+      "options": [
+        "To repeal or do away with a law or practice",
+        "A type of formal renunciation",
+        "To increase or enhance",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "To repeal or do away with a law or practice"
+    },
+    {
+      "id": 16,
+      "question": "What is the meaning of 'Abscond'?",
+      "options": [
+        "To leave hurriedly and secretly, typically to avoid detection",
+        "A religious figure",
+        "A formal abbreviation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "To leave hurriedly and secretly, typically to avoid detection"
+    },
+    {
+      "id": 17,
+      "question": "What is the meaning of 'Absolution'?",
+      "options": [
+        "The formal release from guilt or punishment",
+        "A type of formal renunciation",
+        "A religious leader",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "The formal release from guilt or punishment"
+    },
+    {
+      "id": 18,
+      "question": "What is the meaning of 'Absurd'?",
+      "options": [
+        "Ridiculously unreasonable or illogical",
+        "A type of formal abbreviation",
+        "A decrease in intensity",
+        "A person who advocates for others"
+      ],
+      "answer": "Ridiculously unreasonable or illogical"
+    },
+    {
+      "id": 19,
+      "question": "What is the meaning of 'Accelerate'?",
+      "options": [
+        "To increase speed or rate",
+        "A person who practices alchemy",
+        "A decrease in intensity",
+        "A religious leader"
+      ],
+      "answer": "To increase speed or rate"
+    },
+    {
+      "id": 20,
+      "question": "What is the meaning of 'Accolade'?",
+      "options": [
+        "An award or privilege granted as a special honor",
+        "A type of formal renunciation",
+        "A place where animals are slaughtered",
+        "A decrease in intensity"
+      ],
+      "answer": "An award or privilege granted as a special honor"
+    },
+    {
+      "id": 21,
+      "question": "What is the meaning of 'Accomplice'?",
+      "options": [
+        "A person who helps another commit a crime",
+        "A person who is aggressive in nature",
+        "A person who adheres to a belief system",
+        "A person who practices alchemy"
+      ],
+      "answer": "A person who helps another commit a crime"
+    },
+    {
+      "id": 22,
+      "question": "What is the meaning of 'Accord'?",
+      "options": [
+        "An agreement or treaty",
+        "A person who advocates for others",
+        "A formal abbreviation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "An agreement or treaty"
+    },
+    {
+      "id": 23,
+      "question": "What is the meaning of 'Accountant'?",
+      "options": [
+        "A person responsible for financial records",
+        "A person who increases speed or rate",
+        "A person who practices alchemy",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "A person responsible for financial records"
+    },
+    {
+      "id": 24,
+      "question": "What is the meaning of 'Acerbic'?",
+      "options": [
+        "Sharp or biting in tone or manner",
+        "A person who helps another commit a crime",
+        "A formal abbreviation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "Sharp or biting in tone or manner"
+    },
+    {
+      "id": 25,
+      "question": "What is the meaning of 'Acoustics'?",
+      "options": [
+        "The study of sound",
+        "A religious leader",
+        "A formal renunciation",
+        "A type of formal abbreviation"
+      ],
+      "answer": "The study of sound"
+    },
+    {
+      "id": 26,
+      "question": "What is the meaning of 'Acquit'?",
+      "options": [
+        "To free someone from a criminal charge",
+        "To formally end something",
+        "A type of formal abbreviation",
+        "A decrease in intensity"
+      ],
+      "answer": "To free someone from a criminal charge"
+    },
+    {
+      "id": 27,
+      "question": "What is the meaning of 'Acrobat'?",
+      "options": [
+        "A performer skilled in acrobatic feats",
+        "A type of formal renunciation",
+        "A religious leader",
+        "A person who helps another commit a crime"
+      ],
+      "answer": "A performer skilled in acrobatic feats"
+    },
+    {
+      "id": 28,
+      "question": "What is the meaning of 'Acronym'?",
+      "options": [
+        "A word formed from the initial letters of a phrase",
+        "A person who practices alchemy",
+        "A type of formal abbreviation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "A word formed from the initial letters of a phrase"
+    },
+    {
+      "id": 29,
+      "question": "What is the meaning of 'Acumen'?",
+      "options": [
+        "The ability to make good judgments and decisions",
+        "A type of formal abbreviation",
+        "A person who renounces their throne",
+        "A decrease in intensity"
+      ],
+      "answer": "The ability to make good judgments and decisions"
+    },
+    {
+      "id": 30,
+      "question": "What is the meaning of 'Adage'?",
+      "options": [
+        "A traditional saying or proverb",
+        "A formal statement of renunciation",
+        "A type of formal abbreviation",
+        "A decrease in intensity"
+      ],
+      "answer": "A traditional saying or proverb"
+    },
+    {
+      "id": 31,
+      "question": "What is the meaning of 'Adamant'?",
+      "options": [
+        "Refusing to be persuaded or change one's mind",
+        "A religious figure",
+        "A person who practices alchemy",
+        "A decrease in intensity"
+      ],
+      "answer": "Refusing to be persuaded or change one's mind"
+    },
+    {
+      "id": 32,
+      "question": "What is the meaning of 'Admonish'?",
+      "options": [
+        "To warn or reprimand someone firmly",
+        "A formal renunciation",
+        "A religious leader",
+        "A decrease in intensity"
+      ],
+      "answer": "To warn or reprimand someone firmly"
+    },
+    {
+      "id": 33,
+      "question": "What is the meaning of 'Adulation'?",
+      "options": [
+        "Excessive praise or flattery",
+        "A formal statement of renunciation",
+        "A decrease in intensity",
+        "A person who practices alchemy"
+      ],
+      "answer": "Excessive praise or flattery"
+    },
+    {
+      "id": 34,
+      "question": "What is the meaning of 'Adversary'?",
+      "options": [
+        "A person or group opposing another",
+        "A person who helps another commit a crime",
+        "A type of formal abbreviation",
+        "A decrease in intensity"
+      ],
+      "answer": "A person or group opposing another"
+    },
+    {
+      "id": 35,
+      "question": "What is the meaning of 'Adversity'?",
+      "options": [
+        "Difficulties or misfortune",
+        "A person who helps another commit a crime",
+        "A place where animals are slaughtered",
+        "A type of formal renunciation"
+      ],
+      "answer": "Difficulties or misfortune"
+    },
+    {
+      "id": 36,
+      "question": "What is the meaning of 'Advocate'?",
+      "options": [
+        "A person who supports or recommends a cause",
+        "A decrease in intensity",
+        "A formal abbreviation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "A person who supports or recommends a cause"
+    },
+    {
+      "id": 37,
+      "question": "What is the meaning of 'Aesthetic'?",
+      "options": [
+        "Pertaining to beauty or artistic expression",
+        "A place where animals are slaughtered",
+        "A person who helps another commit a crime",
+        "A decrease in intensity"
+      ],
+      "answer": "Pertaining to beauty or artistic expression"
+    },
+    {
+      "id": 38,
+      "question": "What is the meaning of 'Affable'?",
+      "options": [
+        "Friendly and easy to talk to",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A person who practices alchemy"
+      ],
+      "answer": "Friendly and easy to talk to"
+    },
+    {
+      "id": 39,
+      "question": "What is the meaning of 'Affirm'?",
+      "options": [
+        "To state or assert positively",
+        "A formal abbreviation",
+        "A decrease in intensity",
+        "A religious figure"
+      ],
+      "answer": "To state or assert positively"
+    },
+    {
+      "id": 40,
+      "question": "What is the meaning of 'Affluent'?",
+      "options": [
+        "Having an abundance of wealth or resources",
+        "A person who practices alchemy",
+        "A formal renunciation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "Having an abundance of wealth or resources"
+    },
+    {
+      "id": 41,
+      "question": "What is the meaning of 'Aggressive'?",
+      "options": [
+        "Hostile or ready to attack",
+        "A person who practices alchemy",
+        "A decrease in intensity",
+        "A formal abbreviation"
+      ],
+      "answer": "Hostile or ready to attack"
+    },
+    {
+      "id": 42,
+      "question": "What is the meaning of 'Alacrity'?",
+      "options": [
+        "Eagerness or willingness",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A person who practices alchemy"
+      ],
+      "answer": "Eagerness or willingness"
+    },
+    {
+      "id": 43,
+      "question": "What is the meaning of 'Alchemy'?",
+      "options": [
+        "A medieval form of chemistry focused on transmutation",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "A medieval form of chemistry focused on transmutation"
+    },
+    {
+      "id": 44,
+      "question": "What is the meaning of 'Allege'?",
+      "options": [
+        "To claim or assert something without proof",
+        "A formal renunciation",
+        "A place where animals are slaughtered",
+        "A person who practices alchemy"
+      ],
+      "answer": "To claim or assert something without proof"
+    },
+    {
+      "id": 45,
+      "question": "What is the meaning of 'Allegiance'?",
+      "options": [
+        "Loyalty or commitment to a group or cause",
+        "A formal abbreviation",
+        "A place where animals are slaughtered",
+        "A decrease in intensity"
+      ],
+      "answer": "Loyalty or commitment to a group or cause"
+    },
+    {
+      "id": 46,
+      "question": "What is the meaning of 'Alleviate'?",
+      "options": [
+        "To make a situation less severe or intense",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "To make a situation less severe or intense"
+    },
+    {
+      "id": 47,
+      "question": "What is the meaning of 'Allegory'?",
+      "options": [
+        "A symbolic story used to convey a deeper meaning",
+        "A formal renunciation",
+        "A religious figure",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "A symbolic story used to convey a deeper meaning"
+    },
+    {
+      "id": 48,
+      "question": "What is the meaning of 'Allude'?",
+      "options": [
+        "To hint at or suggest something indirectly",
+        "A decrease in intensity",
+        "A person who practices alchemy",
+        "A formal renunciation"
+      ],
+      "answer": "To hint at or suggest something indirectly"
+    },
+    {
+      "id": 49,
+      "question": "What is the meaning of 'Altruism'?",
+      "options": [
+        "The selfless concern for the well-being of others",
+        "A decrease in intensity",
+        "A formal abbreviation",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "The selfless concern for the well-being of others"
+    },
+    {
+      "id": 50,
+      "question": "What is the meaning of 'Ameliorate'?",
+      "options": [
+        "To make a situation or condition better",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A person who helps another commit a crime"
+      ],
+      "answer": "To make a situation or condition better"
+    },
+    {
+      "id": 51,
+      "question": "What is the meaning of 'Amicable'?",
+      "options": [
+        "Friendly or peaceable",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A person who practices alchemy"
+      ],
+      "answer": "Friendly or peaceable"
+    },
+    {
+      "id": 52,
+      "question": "What is the meaning of 'Amorphous'?",
+      "options": [
+        "Having no defined shape or structure",
+        "A person who practices alchemy",
+        "A place where animals are slaughtered",
+        "A decrease in intensity"
+      ],
+      "answer": "Having no defined shape or structure"
+    },
+    {
+      "id": 53,
+      "question": "What is the meaning of 'Anachronism'?",
+      "options": [
+        "Something that is out of place in time",
+        "A decrease in intensity",
+        "A formal abbreviation",
+        "A person who helps another commit a crime"
+      ],
+      "answer": "Something that is out of place in time"
+    },
+    {
+      "id": 54,
+      "question": "What is the meaning of 'Anarchy'?",
+      "options": [
+        "A state of disorder due to the absence of authority",
+        "A religious figure",
+        "A decrease in intensity",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "A state of disorder due to the absence of authority"
+    },
+    {
+      "id": 55,
+      "question": "What is the meaning of 'Anathema'?",
+      "options": [
+        "A person or thing that is greatly detested",
+        "A decrease in intensity",
+        "A formal renunciation",
+        "A religious figure"
+      ],
+      "answer": "A person or thing that is greatly detested"
+    },
+    {
+      "id": 56,
+      "question": "What is the meaning of 'Ancillary'?",
+      "options": [
+        "Providing necessary support to the primary activities",
+        "A decrease in intensity",
+        "A formal abbreviation",
+        "A person who helps another commit a crime"
+      ],
+      "answer": "Providing necessary support to the primary activities"
+    },
+    {
+      "id": 57,
+      "question": "What is the meaning of 'Anguish'?",
+      "options": [
+        "Severe mental or physical pain",
+        "A formal renunciation",
+        "A decrease in intensity",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "Severe mental or physical pain"
+    },
+    {
+      "id": 58,
+      "question": "What is the meaning of 'Animosity'?",
+      "options": [
+        "Strong hostility or hatred",
+        "A religious figure",
+        "A decrease in intensity",
+        "A place where animals are slaughtered"
+      ],
+      "answer": "Strong hostility or hatred"
+    },
+    {
+      "id": 59,
+      "question": "What is the meaning of 'Annex'?",
+      "options": [
+        "To add or attach something, especially to a larger entity",
+        "A formal abbreviation",
+        "A person who renounces their throne",
+        "A decrease in intensity"
+      ],
+      "answer": "To add or attach something, especially to a larger entity"
+    },
+    {
+      "id": 60,
+      "question": "What is the meaning of 'Annuity'?",
+      "options": [
+        "A fixed annual payment",
+        "A place where animals are slaughtered",
+        "A religious figure",
+        "A decrease in intensity"
+      ],
+      "answer": "A fixed annual payment"
+    }
+  ]
+
+
+        },
+        {
+            "name": "Math",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "What is the square root of 49?",
+                    "options": [
+                        "7",
+                        "12",
+                        "49",
+                        "6"
+                    ],
+                    "answer": "7"
+                },
+                {
+                    "question": "What is 2 + 2?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "answer": "4"
+                },
+                {
+                    "question": "What is the square root of 16?",
+                    "options": [
+                        "2",
+                        "4",
+                        "8",
+                        "16"
+                    ],
+                    "answer": "4"
+                },
+                {
+                    "question": "What is 7 x 6?",
+                    "options": [
+                        "42",
+                        "36",
+                        "48",
+                        "56"
+                    ],
+                    "answer": "42"
+                },
+                {
+                    "question": "What is 15 - 9?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "5"
+                    ],
+                    "answer": "6"
+                },
+                {
+                    "question": "What is 5^2?",
+                    "options": [
+                        "25",
+                        "20",
+                        "15",
+                        "30"
+                    ],
+                    "answer": "25"
+                },
+                {
+                    "question": "What is the value of π (pi) to two decimal places?",
+                    "options": [
+                        "3.14",
+                        "3.16",
+                        "3.12",
+                        "3.15"
+                    ],
+                    "answer": "3.14"
+                },
+                {
+                    "question": "What is the next prime number after 7?",
+                    "options": [
+                        "8",
+                        "9",
+                        "10",
+                        "11"
+                    ],
+                    "answer": "11"
+                },
+                {
+                    "question": "What is the sum of angles in a triangle?",
+                    "options": [
+                        "90 degrees",
+                        "180 degrees",
+                        "360 degrees",
+                        "270 degrees"
+                    ],
+                    "answer": "180 degrees"
+                },
+                {
+                    "question": "What is 12 ÷ 4?",
+                    "options": [
+                        "3",
+                        "4",
+                        "2",
+                        "6"
+                    ],
+                    "answer": "3"
+                }
+            ]
+        },
+        {
+            "name": "Science",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "What is the chemical symbol for water?",
+                    "options": [
+                        "H2O",
+                        "O2",
+                        "CO2",
+                        "N2"
+                    ],
+                    "answer": "H2O"
+                },
+                {
+                    "question": "Which planet is known as the Red Planet?",
+                    "options": [
+                        "Earth",
+                        "Mars",
+                        "Jupiter",
+                        "Saturn"
+                    ],
+                    "answer": "Mars"
+                },
+                {
+                    "question": "What is the speed of light?",
+                    "options": [
+                        "299,792 km/s",
+                        "150,000 km/s",
+                        "1,000 km/s",
+                        "300,000 km/s"
+                    ],
+                    "answer": "299,792 km/s"
+                },
+                {
+                    "question": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Ribosome",
+                        "Mitochondria",
+                        "Endoplasmic Reticulum"
+                    ],
+                    "answer": "Mitochondria"
+                },
+                {
+                    "question": "What gas do plants absorb?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer": "Carbon Dioxide"
+                },
+                {
+                    "question": "What is the boiling point of water?",
+                    "options": [
+                        "100°C",
+                        "90°C",
+                        "80°C",
+                        "120°C"
+                    ],
+                    "answer": "100°C"
+                },
+                {
+                    "question": "What is the chemical symbol for gold?",
+                    "options": [
+                        "Au",
+                        "Ag",
+                        "Pb",
+                        "Fe"
+                    ],
+                    "answer": "Au"
+                },
+                {
+                    "question": "Which planet is closest to the Sun?",
+                    "options": [
+                        "Venus",
+                        "Mars",
+                        "Mercury",
+                        "Earth"
+                    ],
+                    "answer": "Mercury"
+                },
+                {
+                    "question": "What is the most abundant gas in the Earth's atmosphere?",
+                    "options": [
+                        "Oxygen",
+                        "Nitrogen",
+                        "Carbon Dioxide",
+                        "Hydrogen"
+                    ],
+                    "answer": "Nitrogen"
+                },
+                {
+                    "question": "What type of bond involves the sharing of electron pairs?",
+                    "options": [
+                        "Ionic",
+                        "Covalent",
+                        "Hydrogen",
+                        "Metallic"
+                    ],
+                    "answer": "Covalent"
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "Who was the first President of the USA?",
+                    "options": [
+                        "George Washington",
+                        "Thomas Jefferson",
+                        "Abraham Lincoln",
+                        "John Adams"
+                    ],
+                    "answer": "George Washington"
+                },
+                {
+                    "question": "What year did World War II end?",
+                    "options": [
+                        "1945",
+                        "1944",
+                        "1939",
+                        "1950"
+                    ],
+                    "answer": "1945"
+                },
+                {
+                    "question": "Who wrote the Declaration of Independence?",
+                    "options": [
+                        "George Washington",
+                        "John Adams",
+                        "Thomas Jefferson",
+                        "Benjamin Franklin"
+                    ],
+                    "answer": "Thomas Jefferson"
+                },
+                {
+                    "question": "What ancient civilization built the pyramids?",
+                    "options": [
+                        "Romans",
+                        "Greeks",
+                        "Egyptians",
+                        "Mayans"
+                    ],
+                    "answer": "Egyptians"
+                },
+                {
+                    "question": "Who was known as the 'Iron Lady'?",
+                    "options": [
+                        "Margaret Thatcher",
+                        "Indira Gandhi",
+                        "Angela Merkel",
+                        "Golda Meir"
+                    ],
+                    "answer": "Margaret Thatcher"
+                },
+                {
+                    "question": "What was the main cause of the Cold War?",
+                    "options": [
+                        "Capitalism vs. Communism",
+                        "Racism",
+                        "Imperialism",
+                        "Nationalism"
+                    ],
+                    "answer": "Capitalism vs. Communism"
+                },
+                {
+                    "question": "Who was the first man on the moon?",
+                    "options": [
+                        "Neil Armstrong",
+                        "Buzz Aldrin",
+                        "Yuri Gagarin",
+                        "Michael Collins"
+                    ],
+                    "answer": "Neil Armstrong"
+                },
+                {
+                    "question": "What was the name of the ship that sank on its maiden voyage in 1912?",
+                    "options": [
+                        "Lusitania",
+                        "Titanic",
+                        "Olympic",
+                        "Britannic"
+                    ],
+                    "answer": "Titanic"
+                },
+                {
+                    "question": "Which empire was known for its road system?",
+                    "options": [
+                        "Roman Empire",
+                        "Ottoman Empire",
+                        "Mongol Empire",
+                        "Persian Empire"
+                    ],
+                    "answer": "Roman Empire"
+                },
+                {
+                    "question": "What event sparked the start of World War I?",
+                    "options": [
+                        "Assassination of Archduke Ferdinand",
+                        "Invasion of Poland",
+                        "Attack on Pearl Harbor",
+                        "Fall of the Berlin Wall"
+                    ],
+                    "answer": "Assassination of Archduke Ferdinand"
+                }
+            ]
+        },
+        {
+            "name": "Geography",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "What is the largest continent?",
+                    "options": [
+                        "Asia",
+                        "Africa",
+                        "North America",
+                        "Europe"
+                    ],
+                    "answer": "Asia"
+                },
+                {
+                    "question": "What river is the longest in the world?",
+                    "options": [
+                        "Amazon",
+                        "Nile",
+                        "Yangtze",
+                        "Mississippi"
+                    ],
+                    "answer": "Nile"
+                },
+                {
+                    "question": "What is the capital of Japan?",
+                    "options": [
+                        "Tokyo",
+                        "Seoul",
+                        "Beijing",
+                        "Bangkok"
+                    ],
+                    "answer": "Tokyo"
+                },
+                {
+                    "question": "Which desert is the largest in the world?",
+                    "options": [
+                        "Sahara",
+                        "Gobi",
+                        "Kalahari",
+                        "Atacama"
+                    ],
+                    "answer": "Sahara"
+                },
+                {
+                    "question": "What country has the most natural lakes?",
+                    "options": [
+                        "Canada",
+                        "Russia",
+                        "USA",
+                        "India"
+                    ],
+                    "answer": "Canada"
+                },
+                {
+                    "question": "Which country is known as the Land of the Rising Sun?",
+                    "options": [
+                        "China",
+                        "Japan",
+                        "Thailand",
+                        "South Korea"
+                    ],
+                    "answer": "Japan"
+                },
+                {
+                    "question": "What is the capital of Australia?",
+                    "options": [
+                        "Canberra",
+                        "Sydney",
+                        "Melbourne",
+                        "Brisbane"
+                    ],
+                    "answer": "Canberra"
+                },
+                {
+                    "question": "Which ocean is the largest?",
+                    "options": [
+                        "Atlantic",
+                        "Indian",
+                        "Arctic",
+                        "Pacific"
+                    ],
+                    "answer": "Pacific"
+                },
+                {
+                    "question": "What mountain range separates Europe and Asia?",
+                    "options": [
+                        "Himalayas",
+                        "Rockies",
+                        "Andes",
+                        "Ural"
+                    ],
+                    "answer": "Ural"
+                },
+                {
+                    "question": "What is the capital of Egypt?",
+                    "options": [
+                        "Cairo",
+                        "Alexandria",
+                        "Giza",
+                        "Luxor"
+                    ],
+                    "answer": "Cairo"
+                }
+            ]
+        },
+        {
+            "name": "Literature",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "Who wrote 'Romeo and Juliet'?",
+                    "options": [
+                        "Charles Dickens",
+                        "Jane Austen",
+                        "William Shakespeare",
+                        "Mark Twain"
+                    ],
+                    "answer": "William Shakespeare"
+                },
+                {
+                    "question": "What is the first book of the Harry Potter series?",
+                    "options": [
+                        "Harry Potter and the Goblet of Fire",
+                        "Harry Potter and the Chamber of Secrets",
+                        "Harry Potter and the Philosopher's Stone",
+                        "Harry Potter and the Order of the Phoenix"
+                    ],
+                    "answer": "Harry Potter and the Philosopher's Stone"
+                },
+                {
+                    "question": "Who wrote 'The Great Gatsby'?",
+                    "options": [
+                        "F. Scott Fitzgerald",
+                        "Ernest Hemingway",
+                        "J.D. Salinger",
+                        "Leo Tolstoy"
+                    ],
+                    "answer": "F. Scott Fitzgerald"
+                },
+                {
+                    "question": "What genre does '1984' belong to?",
+                    "options": [
+                        "Fiction",
+                        "Non-fiction",
+                        "Fantasy",
+                        "Dystopian"
+                    ],
+                    "answer": "Dystopian"
+                },
+                {
+                    "question": "Who is the author of 'Moby Dick'?",
+                    "options": [
+                        "Herman Melville",
+                        "Charles Dickens",
+                        "Leo Tolstoy",
+                        "Mark Twain"
+                    ],
+                    "answer": "Herman Melville"
+                },
+                {
+                    "question": "What is the main theme of 'To Kill a Mockingbird'?",
+                    "options": [
+                        "Racism",
+                        "Friendship",
+                        "Love",
+                        "War"
+                    ],
+                    "answer": "Racism"
+                },
+                {
+                    "question": "Who wrote 'Pride and Prejudice'?",
+                    "options": [
+                        "Charlotte Brontë",
+                        "Jane Austen",
+                        "Virginia Woolf",
+                        "Emily Dickinson"
+                    ],
+                    "answer": "Jane Austen"
+                },
+                {
+                    "question": "What is the setting of 'The Catcher in the Rye'?",
+                    "options": [
+                        "New York City",
+                        "London",
+                        "Paris",
+                        "Tokyo"
+                    ],
+                    "answer": "New York City"
+                },
+                {
+                    "question": "Who wrote 'The Odyssey'?",
+                    "options": [
+                        "Homer",
+                        "Virgil",
+                        "Ovid",
+                        "Sophocles"
+                    ],
+                    "answer": "Homer"
+                },
+                {
+                    "question": "What is the main character's name in 'The Hunger Games'?",
+                    "options": [
+                        "Katniss Everdeen",
+                        "Hermione Granger",
+                        "Bella Swan",
+                        "Luna Lovegood"
+                    ],
+                    "answer": "Katniss Everdeen"
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "Who painted the Mona Lisa?",
+                    "options": [
+                        "Vincent van Gogh",
+                        "Pablo Picasso",
+                        "Leonardo da Vinci",
+                        "Claude Monet"
+                    ],
+                    "answer": "Leonardo da Vinci"
+                },
+                {
+                    "question": "What art movement is associated with Andy Warhol?",
+                    "options": [
+                        "Impressionism",
+                        "Surrealism",
+                        "Pop Art",
+                        "Cubism"
+                    ],
+                    "answer": "Pop Art"
+                },
+                {
+                    "question": "Who sculpted David?",
+                    "options": [
+                        "Michelangelo",
+                        "Donatello",
+                        "Bernini",
+                        "Rodin"
+                    ],
+                    "answer": "Michelangelo"
+                },
+                {
+                    "question": "What is the primary medium of a watercolor painting?",
+                    "options": [
+                        "Oil",
+                        "Acrylic",
+                        "Water",
+                        "Charcoal"
+                    ],
+                    "answer": "Water"
+                },
+                {
+                    "question": "Which artist is known for his murals in Mexico?",
+                    "options": [
+                        "Diego Rivera",
+                        "Frida Kahlo",
+                        "David Alfaro Siqueiros",
+                        "Rufino Tamayo"
+                    ],
+                    "answer": "Diego Rivera"
+                },
+                {
+                    "question": "What is the term for the art of paper folding?",
+                    "options": [
+                        "Origami",
+                        "Calligraphy",
+                        "Decoupage",
+                        "Papercraft"
+                    ],
+                    "answer": "Origami"
+                },
+                {
+                    "question": "Who is known for the painting 'The Starry Night'?",
+                    "options": [
+                        "Vincent van Gogh",
+                        "Pablo Picasso",
+                        "Claude Monet",
+                        "Henri Matisse"
+                    ],
+                    "answer": "Vincent van Gogh"
+                },
+                {
+                    "question": "What is the term for a painting done on wet plaster?",
+                    "options": [
+                        "Fresco",
+                        "Tempera",
+                        "Encaustic",
+                        "Mosaic"
+                    ],
+                    "answer": "Fresco"
+                },
+                {
+                    "question": "Who created the sculpture 'The Thinker'?",
+                    "options": [
+                        "Auguste Rodin",
+                        "Henri Matisse",
+                        "Alberto Giacometti",
+                        "Louise Bourgeois"
+                    ],
+                    "answer": "Auguste Rodin"
+                },
+                {
+                    "question": "What is the main focus of abstract art?",
+                    "options": [
+                        "Realism",
+                        "Expression",
+                        "Geometry",
+                        "Color"
+                    ],
+                    "answer": "Expression"
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "Who composed the Four Seasons?",
+                    "options": [
+                        "Ludwig van Beethoven",
+                        "Johann Sebastian Bach",
+                        "Antonio Vivaldi",
+                        "Wolfgang Amadeus Mozart"
+                    ],
+                    "answer": "Antonio Vivaldi"
+                },
+                {
+                    "question": "What is the term for the speed of a piece of music?",
+                    "options": [
+                        "Tempo",
+                        "Rhythm",
+                        "Melody",
+                        "Harmony"
+                    ],
+                    "answer": "Tempo"
+                },
+                {
+                    "question": "Which instrument is known as the king of instruments?",
+                    "options": [
+                        "Piano",
+                        "Organ",
+                        "Violin",
+                        "Guitar"
+                    ],
+                    "answer": "Organ"
+                },
+                {
+                    "question": "Who is known as the 'Queen of Pop'?",
+                    "options": [
+                        "Madonna",
+                        "Beyoncé",
+                        "Lady Gaga",
+                        "Taylor Swift"
+                    ],
+                    "answer": "Madonna"
+                },
+                {
+                    "question": "What is a musical scale?",
+                    "options": [
+                        "A series of notes",
+                        "A type of rhythm",
+                        "A form of harmony",
+                        "A pattern of chords"
+                    ],
+                    "answer": "A series of notes"
+                },
+                {
+                    "question": "Which composer is known for his symphonies?",
+                    "options": [
+                        "Johannes Brahms",
+                        "Claude Debussy",
+                        "Frédéric Chopin",
+                        "Gustav Mahler"
+                    ],
+                    "answer": "Gustav Mahler"
+                },
+                {
+                    "question": "What is the name of the famous music festival held in Coachella Valley?",
+                    "options": [
+                        "Lollapalooza",
+                        "Glastonbury",
+                        "Coachella",
+                        "Burning Man"
+                    ],
+                    "answer": "Coachella"
+                },
+                {
+                    "question": "What instrument is typically used in jazz music?",
+                    "options": [
+                        "Guitar",
+                        "Piano",
+                        "Trumpet",
+                        "Drums"
+                    ],
+                    "answer": "Trumpet"
+                },
+                {
+                    "question": "Who wrote the opera 'Carmen'?",
+                    "options": [
+                        "Giuseppe Verdi",
+                        "Giacomo Puccini",
+                        "Georges Bizet",
+                        "Wolfgang Amadeus Mozart"
+                    ],
+                    "answer": "Georges Bizet"
+                },
+                {
+                    "question": "What is the most widely used musical notation?",
+                    "options": [
+                        "Standard notation",
+                        "Tablature",
+                        "Figured bass",
+                        "Graphic notation"
+                    ],
+                    "answer": "Standard notation"
+                }
+            ]
+        },
+        {
+            "name": "Sports",
+            "image": "/images/quiz.png",
+            "questions": [
+                {
+                    "question": "Which sport is known as 'the beautiful game'?",
+                    "options": [
+                        "Basketball",
+                        "Cricket",
+                        "Soccer",
+                        "Tennis"
+                    ],
+                    "answer": "Soccer"
+                },
+                {
+                    "question": "How many players are on a basketball team?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "5"
+                },
+                {
+                    "question": "Which country hosted the 2016 Summer Olympics?",
+                    "options": [
+                        "USA",
+                        "China",
+                        "Brazil",
+                        "UK"
+                    ],
+                    "answer": "Brazil"
+                },
+                {
+                    "question": "What is the highest score possible in a game of bowling?",
+                    "options": [
+                        "200",
+                        "300",
+                        "100",
+                        "400"
+                    ],
+                    "answer": "300"
+                },
+                {
+                    "question": "What is the national sport of Japan?",
+                    "options": [
+                        "Karate",
+                        "Sumo Wrestling",
+                        "Baseball",
+                        "Soccer"
+                    ],
+                    "answer": "Sumo Wrestling"
+                },
+                {
+                    "question": "Which sport uses a bat and ball and is played on a diamond?",
+                    "options": [
+                        "Cricket",
+                        "Baseball",
+                        "Softball",
+                        "Lacrosse"
+                    ],
+                    "answer": "Baseball"
+                },
+                {
+                    "question": "What is the length of an Olympic swimming pool?",
+                    "options": [
+                        "25 meters",
+                        "50 meters",
+                        "100 meters",
+                        "75 meters"
+                    ],
+                    "answer": "50 meters"
+                },
+                {
+                    "question": "Who holds the record for the most home runs in MLB history?",
+                    "options": [
+                        "Babe Ruth",
+                        "Barry Bonds",
+                        "Hank Aaron",
+                        "Ted Williams"
+                    ],
+                    "answer": "Barry Bonds"
+                },
+                {
+                    "question": "Which country has won the most FIFA World Cups?",
+                    "options": [
+                        "Germany",
+                        "Brazil",
+                        "Italy",
+                        "Argentina"
+                    ],
+                    "answer": "Brazil"
+                },
+                {
+                    "question": "What is the only sport to have been played on the moon?",
+                    "options": [
+                        "Golf",
+                        "Baseball",
+                        "Soccer",
+                        "Tennis"
+                    ],
+                    "answer": "Golf"
+                }
+            ]
+        }
+    ]
+}
